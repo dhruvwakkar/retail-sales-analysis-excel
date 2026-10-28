@@ -72,6 +72,10 @@ The dashboard includes:
 - How does revenue vary across shipping modes?
 - Which product categories have the highest sales quantities?
 
+## Dashboard Preview
+
+![Retail Sales Dashboard](retail_sales_dashboard.jpeg)
+
 ## Files Included
 
 | File | Description |
